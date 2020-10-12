@@ -1,5 +1,4 @@
-# *Project Name:* CNet Learning
+# *Project Name:* Online_learning
 
-# Description:
-
-An online learning platform that hosts courses on Data Structures and Algorithms, Web Development, and Fundamentals of Computer Programming.
+# Description: 
+This is a project developed as part of the Treehouse Django courses.
